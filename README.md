@@ -5,12 +5,16 @@
 
 ## Requirements.
 
-Python 2.7+ and 3.0+
+Works best with python 3.12.4 without any dependency issues
 
 ## Installation & Usage
 ### pip install
 
 If the python package is hosted on a repository, you can install directly using:
+
+```sh
+try installing all requirements manually if following command doesnt work or run 'pip install -r requirements.txt'
+```
 
 ```sh
 pip install "git+https://github.com/sahilLikes2Code/kotak-neo-api.git#egg=neo_api_client"
